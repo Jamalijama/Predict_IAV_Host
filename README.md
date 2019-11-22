@@ -1,5 +1,8 @@
 # Predict_IAV_Host
 Machine Learning Predicts Human-adaptative Influenza A Viruses Based on Viral Nucleotide Composition
+https://doi.org/10.1093/molbev/msz276
+Note: The final script version will be uploaded once the paper formally published, maybe Issue 12, 2019.
+Any academic use of the scripts in this paper is welcome, with proper citation. 
 
 ## Overview
 
