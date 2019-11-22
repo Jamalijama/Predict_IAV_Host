@@ -3,6 +3,7 @@ Machine Learning Predicts Human-adaptative Influenza A Viruses Based on Viral Nu
 https://doi.org/10.1093/molbev/msz276
 Note: The final script version will be uploaded once the paper formally published, maybe Issue 12, 2019.
 Any academic use of the scripts in this paper is welcome, with proper citation. 
+Questions, suggestions and comments about the paper of the this project are welcome by email: lj-pbs@163.com.
 
 ## Overview
 
